@@ -2,12 +2,12 @@ import { useNavigate } from "react-router-dom";
 import { useRef } from "react";
 import reactlogo from "../../assets/svgs/react.svg";
 import tailwindlogo from "../../assets/svgs/tailwindcss.svg";
-import bg480 from "../../assets/images/landing/landing-480px.webp";
-import bg640 from "../../assets/images/landing/landing-640px.webp";
-import bg768 from "../../assets/images/landing/landing-768px.webp";
-import bg1024 from "../../assets/images/landing/landing-1024px.webp";
-import bg1280 from "../../assets/images/landing/landing-1280px.webp";
-import bg1536 from "../../assets/images/landing/landing-1536px.webp";
+import bg480 from "../../assets/images/landing/bi6zone-theme.png";
+import bg640 from "../../assets/images/landing/bi6zone-theme.png";
+import bg768 from "../../assets/images/landing/bi6zone-theme.png";
+import bg1024 from "../../assets/images/landing/bi6zone-theme.png";
+import bg1280 from "../../assets/images/landing/bi6zone-theme.png";
+import bg1536 from "../../assets/images/landing/bi6zone-theme.png";
 
 const sizes = `
   (max-width: 480px) 480px,
@@ -73,7 +73,7 @@ export default function Intro() {
           className="card-fadeout relative mx-auto flex h-auto w-[calc(100%-5%)] flex-col items-center border border-[#ffffff25] bg-[#0000004f] px-4 py-4 backdrop-blur-md transition-all duration-500 ease-in-out sm:w-[430px] md:px-5"
         >
           <h2 className="w-full bg-gradient-to-r from-purple-400 via-teal-500 to-cyan-400 bg-clip-text pl-1.5 text-left text-3xl font-semibold text-transparent xl:text-4xl">
-            Lowkey Music
+            BI6MUSIC
           </h2>
           <div className="my-4 flex h-auto w-full flex-col items-start justify-between">
             <h2 className="group cursor-pointer pl-2 text-lg font-medium text-white">
@@ -159,13 +159,13 @@ export default function Intro() {
           </div>
           <footer className="flex h-auto w-full items-center justify-center border-neutral-900">
             <p className="mr-1 text-center text-sm font-medium text-neutral-400 transition-colors duration-100 ease-linear group-hover:text-white">
-              Made with 💖 by
+              Made by
             </p>
             <a
-              href="https://github.com/tejas-git64"
+              href="https://github.com/bi66ie619"
               className="text-sm text-white outline-none duration-100 ease-in hover:text-teal-400 focus:text-teal-400"
             >
-              Tej
+              jericho😝
             </a>
           </footer>
         </div>
