@@ -75,6 +75,7 @@ export default function Intro() {
           <h2 className="w-full bg-gradient-to-r from-purple-400 via-teal-500 to-cyan-400 bg-clip-text pl-1.5 text-left text-3xl font-semibold text-transparent xl:text-4xl">
             BI6MUSIC
           </h2>
+          Be aware music may take some time to load. Be patient!!!
           <div className="my-4 flex h-auto w-full flex-col items-start justify-between">
             <h2 className="group cursor-pointer pl-2 text-lg font-medium text-white">
               Features
