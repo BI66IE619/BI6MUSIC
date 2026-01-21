@@ -166,7 +166,7 @@ export default function Intro() {
               href="https://github.com/bi66ie619"
               className="text-sm text-white outline-none duration-100 ease-in hover:text-teal-400 focus:text-teal-400"
             >
-              jericho😝
+              BI66IE619😝
             </a>
           </footer>
         </div>
